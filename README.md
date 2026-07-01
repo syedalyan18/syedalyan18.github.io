@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-Personal portfolio for **Syed Alyan Hussain**.
+Personal portfolio for **Syed Affan Hussain**.
