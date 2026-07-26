@@ -243,8 +243,6 @@ a { color: inherit; text-decoration: none; }
 }
 .chip:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-3px); }
 
-<<<<<<< HEAD
-=======
 /* Projects */
 .projects-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
 .project-card {
@@ -270,7 +268,6 @@ a { color: inherit; text-decoration: none; }
 .project-btn:hover { color: var(--accent-2); transform: translateX(3px); }
 .projects-more { text-align: center; margin-top: 2.2rem; }
 
->>>>>>> fc3eb67dee63acc33c244e28dbc1f5dd9c443c66
 /* Education timeline */
 .timeline { position: relative; padding-left: 2rem; }
 .timeline::before {
@@ -325,11 +322,7 @@ a { color: inherit; text-decoration: none; }
   .hero-card { order: 1; }
   .hero-desc { margin-inline: auto; }
   .hero-actions, .hero-socials { justify-content: center; }
-<<<<<<< HEAD
-  .about-grid, .skills-wrap { grid-template-columns: 1fr; }
-=======
   .about-grid, .skills-wrap, .projects-grid { grid-template-columns: 1fr; }
->>>>>>> fc3eb67dee63acc33c244e28dbc1f5dd9c443c66
 
   .nav-toggle { display: flex; z-index: 110; }
   .nav-links {
